@@ -10,9 +10,11 @@ Este guia explica como instalar o OpenVPN e importar seu perfil de VPN utilizand
 1. Acesse o site oficial:  
    [https://openvpn.net/community-downloads/](https://openvpn.net/community-downloads/)
 
-2. Baixe a versão para **Windows 64-bit** (MSI Installer).
+# release OpenVPN 2.6.14.    
 
-3. Execute o instalador como **Administrador** e siga os passos para concluir.
+3. Baixe a versão para **Windows 64-bit** (MSI Installer).
+
+4. Execute o instalador como **Administrador** e siga os passos para concluir.
 
 ---
 
